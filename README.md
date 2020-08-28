@@ -1,3 +1,3 @@
-# document
+# notebooks
 
-Document Storage with SQLAlchemy
+These are notebooks from random things I am learning or trying using python
